@@ -59,7 +59,7 @@ To examine how factors such as income, unemployment, education, and demographics
 
 ## 📄 Report
 Detailed analysis and methodology:  
-📎 [Project Report](report/Report_ADSA_2025_FSDS_Keyur_Chaudhari.pdf)
+📎 https://github.com/keyurck7/political-polarisation-germany-analysis/blob/main/Report%20and%20Presentation/Report_ADSA%202025_FSDS_Keyur%20Chaudhari.pdf
 
 ---
 
