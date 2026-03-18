@@ -1,4 +1,4 @@
-# 🇩🇪 Germany Election Socio-Economic Analysis
+# 🇩🇪 Germany Election Analysis based on "Socio-Economic" factors
 
 ## 📌 Overview
 This project analyzes how socio-economic and demographic factors influence political voting patterns across Germany’s 16 federal states.
@@ -54,16 +54,6 @@ To examine how factors such as income, unemployment, education, and demographics
 
 - **Demographics Play a Key Role**  
   Age distribution, education levels, and foreign-born population significantly impact voting behavior.
-
----
-
-## 📊 Dashboard Preview
-
-### Economic Prosperity vs Voting Patterns
-![Dashboard](images/dashboard1.png)
-
-### Socio-Economic Correlation Analysis
-![Dashboard](images/dashboard2.png)
 
 ---
 
